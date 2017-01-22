@@ -1,0 +1,480 @@
+@charset "utf-8";
+	.Stiledicaratterenormale9
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 13px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale2
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale7
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale1
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale5
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale3
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale6
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale4
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.backgroundpassword
+{
+	background : #102D3E;
+	background : rgba(16, 45, 62, 1);
+	width : 196px;
+	height : 32px;
+}
+.Stiledicaratterenormale13
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 13px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.emailbackground
+{
+	background : #102D3E;
+	background : rgba(16, 45, 62, 1);
+	width : 196px;
+	height : 32px;
+}
+.Stiledicaratterenormale15
+{
+	font-family : Montserrat;
+	font-size : 45px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale14
+{
+	font-family : Montserrat;
+	font-size : 13px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale12
+{
+	font-family : Montserrat;
+	font-size : 13px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale11
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 13px;
+	color : #102D3E;
+	color : rgb(16, 45, 62);
+}
+.Stiledicaratterenormale8
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Stiledicaratterenormale10
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 13px;
+	color : #102D3E;
+	color : rgb(16, 45, 62);
+}
+.Stiledicaratterenormale
+{
+	font-family : Montserrat;
+	font-weight : bold;
+	font-size : 19px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.XMLID_184_
+{
+	background : #102D3E;
+	background : rgba(16, 45, 62, 1);
+	width : 250px;
+	height : 68px;
+}
+.XMLID_339_
+{
+	background : #8A4A5C;
+	background : rgba(138, 74, 92, 1);
+	opacity : 0.83;
+	width : 146px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_334_
+{
+	background : #E4B345;
+	background : rgba(228, 179, 69, 1);
+	opacity : 0.83;
+	width : 174px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_341_
+{
+	background : #E4B345;
+	background : rgba(228, 179, 69, 1);
+	opacity : 0.83;
+	width : 112px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_186_
+{
+	background : #EDD0D1;
+	background : rgba(237, 208, 209, 1);
+	width : 98px;
+	height : 30px;
+	border-radius : 0px 9px 9px 0px;
+	-moz-border-radius : 0px 9px 9px 0px;
+	-webkit-border-radius : 0px 9px 9px 0px;
+}
+.XMLID_187_
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	width : 50px;
+	height : 33px;
+	border-radius : 0px  / 33px 33px 0px 0px;
+	-moz-border-radius : 0px  / 33px 33px 0px 0px;
+	-webkit-border-radius : 0px  / 33px 33px 0px 0px;
+}
+.XMLID_7_
+{
+	background-image : url(XMLID_7_.png);
+	background-repeat : no-repeat;
+	width : 28px;
+	height : 13px;
+}
+.XMLID_182_
+{
+	background-image : url(XMLID_182_.png);
+	background-repeat : no-repeat;
+	width : 1280px;
+	height : 800px;
+}
+.XMLID_335_
+{
+	background : #8A4A5C;
+	background : rgba(138, 74, 92, 1);
+	opacity : 0.83;
+	width : 146px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_324_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.83;
+	width : 197px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_227_
+{
+	background-image : url(XMLID_227_.png);
+	background-repeat : no-repeat;
+	width : 29px;
+	height : 26px;
+}
+.XMLID_328_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.83;
+	width : 77px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_169_
+{
+	background-image : url(XMLID_169_.png);
+	background-repeat : no-repeat;
+	width : 185px;
+	height : 274px;
+}
+.XMLID_333_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.83;
+	width : 100px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_93_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.72;
+	width : 184px;
+	height : 725px;
+	filter: alpha(opacity=72) progid:DXImageTransform.Microsoft.Alpha(opacity=72) ;
+}
+.XMLID_322_
+{
+	background : #E4B345;
+	background : rgba(228, 179, 69, 1);
+	opacity : 0.83;
+	width : 100px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_323_
+{
+	background : #8A4A5C;
+	background : rgba(138, 74, 92, 1);
+	opacity : 0.83;
+	width : 126px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_332_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.83;
+	width : 73px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_107_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.72;
+	width : 1279px;
+	height : 74px;
+	filter: alpha(opacity=72) progid:DXImageTransform.Microsoft.Alpha(opacity=72) ;
+}
+.XMLID_53_
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	opacity : 0.76;
+	width : 1280px;
+	height : 800px;
+	filter: alpha(opacity=76) progid:DXImageTransform.Microsoft.Alpha(opacity=76) ;
+}
+.XMLID_190_
+{
+	background : #EDD0D1;
+	background : rgba(237, 208, 209, 1);
+	width : 50px;
+	height : 33px;
+	border-radius : 0px  / 33px 33px 0px 0px;
+	-moz-border-radius : 0px  / 33px 33px 0px 0px;
+	-webkit-border-radius : 0px  / 33px 33px 0px 0px;
+}
+.XMLID_150_
+{
+	background-image : url(XMLID_150_.png);
+	background-repeat : no-repeat;
+	width : 51px;
+	height : 46px;
+}
+.XMLID_330_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.83;
+	width : 52px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_331_
+{
+	background : #E4B345;
+	background : rgba(228, 179, 69, 1);
+	opacity : 0.83;
+	width : 68px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_320_
+{
+	background : #8A4A5C;
+	background : rgba(138, 74, 92, 1);
+	opacity : 0.83;
+	width : 47px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_36_
+{
+	background-image : url(XMLID_36_.png);
+	background-repeat : no-repeat;
+	width : 1280px;
+	height : 800px;
+}
+.XMLID_338_
+{
+	background : #8A4A5C;
+	background : rgba(138, 74, 92, 1);
+	opacity : 0.83;
+	width : 47px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_337_
+{
+	background : #E4B345;
+	background : rgba(228, 179, 69, 1);
+	opacity : 0.83;
+	width : 100px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_321_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.83;
+	width : 122px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_131_
+{
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	width : 98px;
+	height : 30px;
+	border-radius : 9px 0px 0px 9px;
+	-moz-border-radius : 9px 0px 0px 9px;
+	-webkit-border-radius : 9px 0px 0px 9px;
+}
+.XMLID_120_
+{
+	background : #59DDC3;
+	background : rgba(89, 221, 195, 1);
+	opacity : 0.76;
+	width : 1280px;
+	height : 800px;
+	filter: alpha(opacity=76) progid:DXImageTransform.Microsoft.Alpha(opacity=76) ;
+}
+.XMLID_340_
+{
+	background : #8A4A5C;
+	background : rgba(138, 74, 92, 1);
+	opacity : 0.83;
+	width : 72px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_119_
+{
+	background-image : url(XMLID_119_.png);
+	background-repeat : no-repeat;
+	width : 564px;
+	height : 564px;
+}
+.XMLID_325_
+{
+	background : #E4B345;
+	background : rgba(228, 179, 69, 1);
+	opacity : 0.83;
+	width : 100px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_327_
+{
+	background : #8A4A5C;
+	background : rgba(138, 74, 92, 1);
+	opacity : 0.83;
+	width : 146px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_336_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.83;
+	width : 197px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_326_
+{
+	background : #8A4A5C;
+	background : rgba(138, 74, 92, 1);
+	opacity : 0.83;
+	width : 146px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.XMLID_329_
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.83;
+	width : 100px;
+	height : 35px;
+	filter: alpha(opacity=83) progid:DXImageTransform.Microsoft.Alpha(opacity=83) ;
+}
+.boxform
+{
+	background : #1F4A5C;
+	background : rgba(31, 74, 92, 1);
+	opacity : 0.72;
+	width : 250px;
+	height : 363px;
+	box-shadow : 6.29px 6.29px 8.99px rgba(0, 0, 0, 0.75);
+	filter: alpha(opacity=72) progid:DXImageTransform.Microsoft.Alpha(opacity=72) progid:DXImageTransform.Microsoft.dropshadow(OffX=6.29, OffY=6.29, Color='#000000') ;
+}
